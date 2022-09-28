@@ -8,9 +8,6 @@
 
 #### domain for design solfware 
 
-![[z.png | 300]]
-
-
 <img alt="plot" src="./z.png" width="400"/>
 
 - **Ploblem domain** ยุ่งเกี่ยวกับการ เก็บข้อมูล โดยการอธิบายปัญหาของ customer และนำมา วิเคราะห์ 
@@ -32,15 +29,17 @@
 #### Requirements as User Stories 
 > As a tenant ( user - role ) , I can unlock thdoors ( capability ), to enter my apartments ( business-value )
 
-![[Screen Shot 2565-09-28 at 15.16.41.png | 500]]
+<img alt="plot" src="./Screen Shot 2565-09-28 at 15.16.41.png.png" width="400"/>
 
 
 #### The Requirements Engineering Process 
 - **Feasibility Study**  => `Feasibility report`
 - **Requirements *elicitation* and *analysis***  => `System models`
-	- เป็นส่วนที่ทำให้มีปฎิสัมพันธ์ กับ User มากสุด โดยเวลาเก็บข้อมูลต้องเก็บทุก Stack holder ( ผู้มีส่วนได้ส่วนเสีย )
-	- โดยแต่ละ Stack holder อาจจะมี feature ที่มีความแตกต่างกันได้ 
-	- ปะญหาที่พบบ่อย : ในขั้น state of problem -> dont know what they really want / conflicting requirements 
+	>เป็นส่วนที่ทำให้มีปฎิสัมพันธ์ กับ User มากสุด โดยเวลาเก็บข้อมูลต้องเก็บทุก Stack holder ( ผู้มีส่วนได้ส่วนเสีย )
+	โดยแต่ละ Stack holder อาจจะมี feature ที่มีความแตกต่างกันได้ 
+	ปัญหาที่พบบ่อย : ในขั้น state of problem -> dont know what they really want / conflicting requirements 
+
+
 
 - **Requirements  specification**  => `User and System Requirements`
 - **Requirements  validation**  => `Requirements documents`
