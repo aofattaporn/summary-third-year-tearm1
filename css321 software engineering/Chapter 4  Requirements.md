@@ -16,8 +16,21 @@
 	- นำ ==Requirements ( customer problem ที่ทำการวิเคราะห์แล้ว ) --> Specification --> Program== 
 - **Software (solution) domain** 
 
-#### Problem Analysis 
+---
+
+### Problem Analysis 
 - **Problem** User is delayed to work and needs help 
-	- Cause A Traffic is unpredicable 
-	- Cause B User is unfamiliar with the route 
-	- Cause C USe has a habit of starting rate 
+	- `Cause A` Traffic is unpredicable 
+	- `Cause B` User is unfamiliar with the route 
+	- `Cause C` USe has a habit of starting rate 
+โดยในบางที ไม่สามารถใช้  feture เดียวในการแก้ปัญหา ทั้งหมดได้ วิธีการคือ ==validate กับ user== 
+
+
+#### Requirements as User Stories 
+> As a tenant ( user - role ) , I can unlock thdoors ( capability ), to enter my apartments ( business-value )
+
+![[Screen Shot 2565-09-28 at 15.16.41.png | 500]]
+
+
+#### The Requirements Engineering Process 
+
