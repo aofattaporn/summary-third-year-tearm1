@@ -29,7 +29,7 @@
 #### Requirements as User Stories 
 > As a tenant ( user - role ) , I can unlock thdoors ( capability ), to enter my apartments ( business-value )
 
-<img alt="plot" src="./Screen Shot 2565-09-28 at 15.16.41.png.png" width="400"/>
+<img alt="plot" src="./Screen Shot 2565-09-28 at 15.16.41.png" width="400"/>
 
 
 #### The Requirements Engineering Process 
