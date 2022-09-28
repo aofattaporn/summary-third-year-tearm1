@@ -1,10 +1,10 @@
 # Search Techniques 
 
-#### เกณในการวัดประสิทธิภาพของการค้นหา 
-- Completeness - สามารถรับรองการค้นพบคำตอบได้  [ blind search ] สามารถทำได้ 
-- Optimality   - สามารถรับรองการค้นหาคำตอบที่ดีที่สุดได้ [ path cost minimization ]
-- Time Complexity - ระยะเวลาในการค้นหา 
-- Space Complexity - พื้นที่หน่วยความจำที่ใช้ในการค้นหา 
+## เกณในการวัดประสิทธิภาพของการค้นหา 
+- **Completeness** - สามารถรับรองการค้นพบคำตอบได้  [ blind search ] สามารถทำได้ 
+- **Optimality**   - สามารถรับรองการค้นหาคำตอบที่ดีที่สุดได้ [ path cost minimization ]
+- **Time Complexity** - ระยะเวลาในการค้นหา 
+- **Space Complexity** - พื้นที่หน่วยความจำที่ใช้ในการค้นหา 
 
 ## Type Searching 
 
@@ -71,7 +71,7 @@
 
 ---
 
-####  Game Search 
+#### Game Search 
 
 ---
 

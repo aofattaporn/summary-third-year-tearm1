@@ -1,4 +1,5 @@
 [
   "theme-picker",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "obsidian-html-tags-autocomplete"
 ]

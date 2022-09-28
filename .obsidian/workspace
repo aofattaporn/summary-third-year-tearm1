@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6286f657a017897b",
+        "id": "f8b1b2ed3408e4d8",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Chapter 4  Requirements.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#fgfdsfdsf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chapter 4  Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +94,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Chapter 4  Requirements.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -110,27 +116,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chapter 4  Requirements.md"
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "6286f657a017897b",
+  "active": "f8b1b2ed3408e4d8",
   "lastOpenFiles": [
     "css321 software engineering/Overview SE.md",
-    "css321 software engineering/Chapter 6  Design Thinking 2.md",
-    "Chapter 7  Project Managements.md",
-    "css321 software engineering/chapter 1 Introduction.md",
-    "css321 software engineering/Chapter 2  Solfware Development Process.md",
+    "css321 software engineering/Chapter 5  Design Thinking 1.md",
     "css321 software engineering/Chapter 1 Introduction Software Engineering.md",
-    "css341 datascience/Seaborn.md",
+    "css321 software engineering/411, 432, 442.pdf",
+    "css321 software engineering/Screen Shot 2565-09-28 at 11.08.38.png",
+    "Chapter 4  Requirements.md",
     "css346 Artificiale Intelligente/Chapter 3 Search Techniques.md",
     "css346 Artificiale Intelligente/Chapter 2 Problem Representation.md",
-    "ประเภทของการค้นหาแบ่งเป็น 3 วิธี.md"
+    "\"css346.md",
+    "css346.md"
   ]
 }
