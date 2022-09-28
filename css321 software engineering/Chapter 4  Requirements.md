@@ -10,11 +10,11 @@
 
 <img alt="plot" src="./z.png" width="400"/>
 
-- **Ploblem domain** ยุ่งเกี่ยวกับการ เก็บข้อมูล โดยการอธิบายปัญหาของ customer และนำมา วิเคราะห์ 
+- **`Ploblem domain`** ยุ่งเกี่ยวกับการ เก็บข้อมูล โดยการอธิบายปัญหาของ customer และนำมา วิเคราะห์ 
 	- โดยที่ สิ่งที่ ==user บอก = customer problem statement != requirements !== 
 	- ไม่ควรเอาที่ user บอกนั้นมาทำ solution ในการแก้ปัญหาจริง เพราะสำหรับบางคน อาจมี bias !! 
 	- นำ ==Requirements ( customer problem ที่ทำการวิเคราะห์แล้ว ) --> Specification --> Program== 
-- **Software (solution) domain** 
+- **`Software` (solution) domain** 
 
 ---
 
