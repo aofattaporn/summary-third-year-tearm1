@@ -8,7 +8,12 @@
 
 #### domain for design solfware 
 
-![[Screen Shot 2565-09-28 at 14.50.04.png | 300]]
+![[z.png | 300]]
+<div>
+	<img src="css321%20software%20engineering/z.png" alt="img">
+	<img width="300" src="app://local/Users/aon1840/Documents/aof2645/year3/summary/css321%20software%20engineering/z.png?1664351406343">
+</div>
+
 
 - **Ploblem domain** ยุ่งเกี่ยวกับการ เก็บข้อมูล โดยการอธิบายปัญหาของ customer และนำมา วิเคราะห์ 
 	- โดยที่ สิ่งที่ ==user บอก = customer problem statement != requirements !== 

@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "css321 software engineering",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
