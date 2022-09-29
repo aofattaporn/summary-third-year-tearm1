@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "css321 software engineering/Chapter 4  Requirements.md",
+            "file": "css321 software engineering/Chapter 7  Project Managements.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "css321 software engineering/Chapter 4  Requirements.md",
+                "file": "css321 software engineering/Chapter 7  Project Managements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "css321 software engineering/Chapter 4  Requirements.md",
+                "file": "css321 software engineering/Chapter 7  Project Managements.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -117,11 +117,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "css321 software engineering/Chapter 4  Requirements.md"
+                "file": "css321 software engineering/Chapter 7  Project Managements.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,15 +131,15 @@
   },
   "active": "f8b1b2ed3408e4d8",
   "lastOpenFiles": [
-    "css321 software engineering/Screen Shot 2565-09-28 at 15.16.41.png",
-    "css321 software engineering/Chapter 4  Requirements.md",
-    "css321 software engineering/z.png",
     "css321 software engineering/Overview SE.md",
+    "css321 software engineering/Chapter 7  Project Managements.md",
+    "css321 software engineering/Chapter 4  Requirements.md",
+    "css321 software engineering/image/Screen Shot 2565-09-28 at 16.47.15.png",
+    "css321 software engineering/image/Screen Shot 2565-09-28 at 15.16.41.png",
+    "css321 software engineering/image/z.png",
     "css321 software engineering/Chapter 5  Design Thinking 1.md",
     "css321 software engineering/Chapter 1 Introduction Software Engineering.md",
     "css321 software engineering/411, 432, 442.pdf",
-    "css321 software engineering/Screen Shot 2565-09-28 at 11.08.38.png",
-    "css346 Artificiale Intelligente/Chapter 3 Search Techniques.md",
-    "css346 Artificiale Intelligente/Chapter 2 Problem Representation.md"
+    "css321 software engineering/Screen Shot 2565-09-28 at 11.08.38.png"
   ]
 }
