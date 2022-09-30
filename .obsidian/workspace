@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f8b1b2ed3408e4d8",
+        "id": "311372132139b29a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "css321 software engineering/Chapter 7  Project Managements.md",
+            "file": "css346 Artificiale Intelligente/Chapter 4 Game Search.md",
             "mode": "source",
             "source": false
           }
@@ -40,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#fgfdsfdsf",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "css321 software engineering/Chapter 7  Project Managements.md",
+                "file": "css346 Artificiale Intelligente/Chapter 4 Game Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "css321 software engineering/Chapter 7  Project Managements.md",
+                "file": "css346 Artificiale Intelligente/Chapter 4 Game Search.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "css321 software engineering/Chapter 7  Project Managements.md"
+                "file": "css346 Artificiale Intelligente/Chapter 4 Game Search.md"
               }
             }
           }
@@ -129,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f8b1b2ed3408e4d8",
+  "active": "311372132139b29a",
   "lastOpenFiles": [
-    "css321 software engineering/Overview SE.md",
-    "css321 software engineering/Chapter 7  Project Managements.md",
+    "css346 Artificiale Intelligente/Chapter 3 Search Techniques.md",
+    "css346 Artificiale Intelligente/Chapter 4 Game Search.md",
+    "css346 Artificiale Intelligente/Chapter 2 Problem Representation.md",
     "css321 software engineering/Chapter 4  Requirements.md",
-    "css321 software engineering/image/Screen Shot 2565-09-28 at 16.47.15.png",
-    "css321 software engineering/image/Screen Shot 2565-09-28 at 15.16.41.png",
+    "css321 software engineering/Chapter 7  Project Managements.md",
+    "css346 Artificiale Intelligente/image/Screen Shot 2565-10-01 at 00.20.30.png",
+    "css346 Artificiale Intelligente/image/Screen Shot 2565-09-30 at 16.34.16.png",
+    "css346 Artificiale Intelligente/image/Screen Shot 2565-09-30 at 16.20.34.png",
     "css321 software engineering/image/z.png",
-    "css321 software engineering/Chapter 5  Design Thinking 1.md",
-    "css321 software engineering/Chapter 1 Introduction Software Engineering.md",
-    "css321 software engineering/411, 432, 442.pdf",
-    "css321 software engineering/Screen Shot 2565-09-28 at 11.08.38.png"
+    "css321 software engineering/image/Screen Shot 2565-09-28 at 16.47.15.png"
   ]
 }

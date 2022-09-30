@@ -1,13 +1,13 @@
 # ProBlem Representation 
 > เป็นการเสนอการบอกถึงปัญหาที่มี ( การแทนปัญหา )
-
-- เพื่อให้ AI เข้าใจ และนำไปสู่กระบวน**การแก้ปัญหาอย่างถูกต้อง** 
+ เพื่อให้ AI เข้าใจ และนำไปสู่กระบวน**การแก้ปัญหาอย่างถูกต้อง** 
 
 
 กระบวนการในการแทนปัญหา เมื่อส฿กษาจะแตกออกเป็นสองอย่าง
 - data structure 
 - algorithm
 ![[Screen Shot 2565-09-26 at 15.05.21.png | 250]]
+<img alt="./image/plot" src="./Screen Shot 2565-09-26 at 15.05.21.png.png" width="400"/>
 
 ---
 
@@ -21,20 +21,7 @@
 	- Goal State - กำหนดเป้าหมายของปัญหาที่เป็นไปได้ 
 	- Path Cost - กำหนดค่าใช้จ่ายต่อ action แต่ละครั้ง 
 
-
-
-
-%%![sssss](./css346 Artificiale Intelligente/image/Screen Shot 2565-09-26 at 15.17.00.png)%%
-
-
 	- [ example ]  ![[Screen Shot 2565-09-26 at 15.17.00.png]]![[Screen Shot 2565-09-26 at 15.16.29.png]]
 	- ![[Screen Shot 2565-09-26 at 15.18.11.png]]
 - **Search fo Solution** : เลือกเทคนิคให้เหมาสมกับปัญหา 
 - **Execute** : นำเทคนิคมาเขียนโปรแกรมเพื่อทำการประยุกต์จริง 
-
-
-
-
-![[Screen Shot 2565-09-28 at 11.08.38.png | 400]]
-
-
