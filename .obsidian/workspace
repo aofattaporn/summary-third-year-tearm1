@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "311372132139b29a",
+        "id": "b5372a7a3b977ec5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "css346 Artificiale Intelligente/Chapter 4 Game Search.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -61,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5019226074219
+    "width": 324.5
   },
   "right": {
     "id": "8f86b63e81e7766f",
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "css346 Artificiale Intelligente/Chapter 4 Game Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "css346 Artificiale Intelligente/Chapter 4 Game Search.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "css346 Artificiale Intelligente/Chapter 4 Game Search.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -129,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "311372132139b29a",
+  "active": "86cf88c360a1dca8",
   "lastOpenFiles": [
-    "css346 Artificiale Intelligente/Chapter 3 Search Techniques.md",
+    "css346 Artificiale Intelligente/image/Screen Shot 2565-10-02 at 15.55.33.png",
     "css346 Artificiale Intelligente/Chapter 4 Game Search.md",
+    "css346 Artificiale Intelligente/image/Screen Shot 2565-10-01 at 15.16.13.png",
+    "css346 Artificiale Intelligente/Chapter 3 Search Techniques.md",
+    "Untitled.md",
     "css346 Artificiale Intelligente/Chapter 2 Problem Representation.md",
     "css321 software engineering/Chapter 4  Requirements.md",
     "css321 software engineering/Chapter 7  Project Managements.md",
     "css346 Artificiale Intelligente/image/Screen Shot 2565-10-01 at 00.20.30.png",
-    "css346 Artificiale Intelligente/image/Screen Shot 2565-09-30 at 16.34.16.png",
-    "css346 Artificiale Intelligente/image/Screen Shot 2565-09-30 at 16.20.34.png",
-    "css321 software engineering/image/z.png",
-    "css321 software engineering/image/Screen Shot 2565-09-28 at 16.47.15.png"
+    "css346 Artificiale Intelligente/image/Screen Shot 2565-09-30 at 16.34.16.png"
   ]
 }
