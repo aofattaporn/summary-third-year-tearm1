@@ -1,7 +1,8 @@
 {
   "theme": "obsidian",
   "baseFontSizeAction": true,
-  "baseFontSize": 14,
+  "baseFontSize": 16,
   "cssTheme": "test",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "accentColor": ""
 }

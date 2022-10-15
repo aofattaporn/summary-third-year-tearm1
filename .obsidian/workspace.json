@@ -4,16 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "571577e594f0dd0a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "css341 datascience/Data Modeling 1 Introduction Optimization.md",
-            "mode": "source",
-            "source": false
+        "id": "8c03a859631aa2ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "571577e594f0dd0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "css341 datascience/Data Modeling 1 Introduction Optimization.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -31,7 +38,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -129,6 +138,9 @@
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
   },
   "active": "571577e594f0dd0a",
   "lastOpenFiles": [

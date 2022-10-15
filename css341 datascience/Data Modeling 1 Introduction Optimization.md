@@ -1,6 +1,6 @@
 # Data Modelling 
 ---
-Major modeling techniques for data science 
+Major modeling techniques for data science ['เราจะเลือก 1 ในหัวข้อของการทำ Modelling']
 - Clustering 
 - Classification 
 - Regression 
@@ -10,7 +10,7 @@ Major modeling techniques for data science
 
 
 ## What is Optimization 
-> ว่าด้วยเรื่องเทคนิคทางคณิตศาสตร์ ทำให้ผล f(x) ของ ค่าที่สุด ( **มากที่สุด** ไม่ก็ **น้อยที่สุด** )
+> ว่าด้วยเรื่องเทคนิคทางคณิตศาสตร์ `ทำให้ผล f(x) ของ ค่าที่สุด ( **มากที่สุด** ไม่ก็ **น้อยที่สุด** )`
 > > f(x) ขึ้นอยู่กับ objective function 
 > > แบ่งเป็น 2 type = continuos , Discrete 
 > 
@@ -63,11 +63,13 @@ Major modeling techniques for data science
 ---
 
 
+
 ### Discreate  ( หาค่าความเหมาะสมของ f(x) โดยไม่มีการต่อเนื่อง )
 - ตัวแปรจำนวนเต็ม ( Integer )
 - ข้ออมูลเชิงการขัด ( conbinatorail variable )
 
 ---
+
 ## Optimzation  Fomuration 
 [ process of optimization ] 
 - Need for optimization 
@@ -102,7 +104,7 @@ Major modeling techniques for data science
 > `Boundary function` >= 0, floating 
 
 ### How complex is an optimization problem 
-- Fitness landscape ( or contour ) ลองเอา decistion variable มา plot เป็น กราฟ 
+- **Fitness landscape ( or contour )** ลองเอา decistion variable มา plot เป็น กราฟ 
 - จำนวนลักษณะของ Local optima 
 - จำนวน decistion variable 
 - ปัญหาที่ constraints/objective เป็น nonlinear 
@@ -119,9 +121,10 @@ Major modeling techniques for data science
 #### Direct Algorithm 
 เอา Gradient infomation is approximated directly 
 
-#### Population-based stochastic algorithm 
-make use of **randomness** in the search procedure ( ใช้การ random ในการกระจายหาหลายจุด )
+#### Population-based stochastic algorithm ***
+make use of **randomness** in the search procedure ( ใช้การ random ในการกระจายหาหลายจุด ) เลี่ยง local optima  ได้ดี
 **Better avoid local optima** 
+- Diiferentail evolution (DE)
 - Genetic algorithms (GA)
 - Ant Colony optimization (ACO)
 
@@ -132,11 +135,15 @@ make use of **randomness** in the search procedure ( ใช้การ random �
 > Mutation -> CrossOver 
 > ข้อดีคือ ไม่สนอะไรเลย หากคิด objectivve function ขึ้นมาได้ 
 > 
+> >- Initailize population ( หา candidate ) -> PopSize (จำนวน candidate)
+> >- นำตัว candidate มาทำการ mutation  -> F (จำนวนการทำ mutation) -> มีหลายวิธี ( rand/1/bin )
+> >- ทำการ corossover 
+> >- แทนที่ตัวเดิม (หาดเทียบกับ target ละดีกว่า เช่น max min )
 > > ![[Screen Shot 2565-10-03 at 15.18.40.png | 350]]
 > > ![[Screen Shot 2565-10-03 at 14.40.50.png | 350]]
 
 
-**ภายใน python มี scipy.optimize.ferrentail_evolution**
+**ภายใน python มี scipy.optimize.differentail_evolution**
 
 ![[Screen Shot 2565-10-03 at 15.25.11.png | 400]]
 

@@ -47,9 +47,8 @@
 - **Requirements collection**
 - **Classification**
 - **Conflict resolution**
-- **-Prioritization**
+- **Prioritization**
 - **Reequirements validation** 
-
 
 ### Tool for Respresentation Requirements 
 - **Usecase diagram**
@@ -65,11 +64,27 @@
 
 ### Requirements Verification 
 #### Precise Requirements Measure 
+เป็นการทำ requirements ที่ทำให้กระจ่างและเข้าใจตรงกันได้ง่าย 
 `speed` time to define a new committee 
+- Time to define a new commitee 
+- Time to evtiire one's conflict 
 `Size` Time to entire one conflict 
 `Ease of use` 
 `Reliability`
 `Portability`
+``
+
+#### Type of Requirements 
+`functional` สิ่งที่ระบบสามารถทำได้ มีหรือไม่มี 
+- 
+`Non functional` มีคุณภาพเท่าไหร่ เชิงการวัดปริมาณเป้นหลัก
+- Usabillity 
+- Availavillity 
+- Maintainbillity 
+- Reuseabilliity 
+`Constrains` ข้อจำกัดเงื่อนไชในการทำงาน 
+
+
 
 
 ---
